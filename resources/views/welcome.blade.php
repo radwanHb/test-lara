@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>cronica-rbcs-api</title>
-        <link rel="stylesheet" href="{{url('css/app.css')}}">
+        <link rel="stylesheet" href="{{secure_asset('css/app.css')}}">
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
 
